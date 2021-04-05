@@ -1,2 +1,2 @@
-# Artisanat-Shop
-##This is an e-commerce website of Artisanat-Shop Products for our school project.
+# artisanatshop
+This is an e-commerce website of artisanat products for our school project.
